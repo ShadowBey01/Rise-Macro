@@ -24,7 +24,7 @@ AutoHotkey v2 must be installed on your system for the script to work.
 ---
 
 ### Step 2: Download Rise Macro
-1. [Click here to download Rise Macro](https://github.com/ShadowBey01/Rise-Macro/releases)
+1. [Click here to download Rise Macro](https://github.com/ShadowBey01/Rise-Macro/releases/tag/Rise)
 2. Download the `RiseMacro.rar` file from the latest release.
 
 ---
